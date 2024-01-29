@@ -1,3 +1,7 @@
+# Playing card detection using YOLOv7
+
+The dataset used in this project was sourced from **playing-cards**, available at https://github.com/lordloh/playing-cards.
+
 # Official YOLOv7
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
